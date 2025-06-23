@@ -21,5 +21,5 @@ The gameplay is really easy. After you download files, open exe file ad you can 
 - For the game all objects exist only as hitboxes so apart from moving them on the screen, the game need to move every hitbox of every object based on his real movement. It happend in every frame.
 
 ## Download
-![Files to download](release)
+![Files to download](https://github.com/KrzemienPasiasty/Rock_Shooter/releases/latest)
 Unzip and play😃
